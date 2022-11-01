@@ -9,7 +9,7 @@ _________________
 
 Data sources: [Output Area Population weighted centroids](https://geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(CTD_OA)). Software used: [QGIS](https://qgis.org), [RStudio](https://www.rstudio.com/). Tweet available [here](https://twitter.com/ONSgeography/status/1587399059224018945).
 
-![Day 1 - Points]()
+![Day 1 - Points](https://github.com/ONSgeo/ONS_30DayMapChallenge_2022/blob/main/maps/Day1_Points_PupulationWeightedCentroids_DistanceMoved.png)
 
 _________________
 
