@@ -34,10 +34,9 @@ _________________
 
 ## Day 4 | Green
 
-
 Data sources: [Local Authority Districts](https://geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_LAD%2CDEC_2021)) [Personal well-being](https://t.co/YSoyfwpk18). Software used: [QGIS](https://qgis.org), [Python](https://www.python.org/). Tweet available [here](https://twitter.com/ONSgeography/status/1588471114010923008).
 
-![Day 4 - Green(https://github.com/ONSgeo/ONS_30DayMapChallenge_2022/blob/main/maps/Day4_Green.png)
+![Day 4 - Green](https://github.com/ONSgeo/ONS_30DayMapChallenge_2022/blob/main/maps/Day4_Green.png)
 
 _________________
 
