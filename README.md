@@ -88,7 +88,7 @@ _________________
 
 ## Day 12 | Scale
 
-Data sources: [Regions](geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_RGN%2CDEC_2021)), [Population Estimates](https://t.co/arGpqrpxT7). Software used: [QGIS](https://qgis.org), [Python](https://www.python.org/). Tweet available [here](twitter.com/ONSgeography/status/1591370220039544833).
+Data sources: [Regions](geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_RGN%2CDEC_2021)), [Population Estimates](https://t.co/arGpqrpxT7). Software used: [QGIS](https://qgis.org), [RStudio](https://www.rstudio.com/). Tweet available [here](twitter.com/ONSgeography/status/1591370220039544833).
 
 ![Day 12 - Scale](https://github.com/ONSgeo/ONS_30DayMapChallenge_2022/blob/main/maps/Day12_Scale.png)
 
