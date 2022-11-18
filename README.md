@@ -113,6 +113,135 @@ Data sources: [Regions](geoportal.statistics.gov.uk/search?collection=Dataset&so
 _________________
 
 
+## Day 16 | Minimalist
+
+Data sources: [Local Authority Districts](https://geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_LAD%2CDEC_2021)),[ONS Postcode Directory](https://t.co/IdBeMwPchH), Software used: [ArcGISPro](https://pro.arcgis.com/en/pro-app/latest/get-started/get-started.htm). Tweet available [here](https://twitter.com/ONSgeography/status/1592819771166244864).
+
+![Day 16 - Minimalist](https://github.com/ONSgeo/ONS_30DayMapChallenge_2022/blob/main/maps/Day16_Minimalist.png)
+
+_________________
+
+
+## Day 17 | map without a computer
+
+Data sources: [Regions](geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_RGN%2CDEC_2021)). Tweet available [here](https://twitter.com/ONSgeography/status/1593182165423906817).
+
+![Day 17 - map without a computer](), ![Day 17 - map with a computer]()
+
+_________________
+
+
+## Day 18 | Blue
+
+Data sources: [Local Authority Districts](https://geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_LAD%2CDEC_2021)),[Well-being](https://t.co/VWathfoJod), Software used: [ArcGISPro](https://pro.arcgis.com/en/pro-app/latest/get-started/get-started.htm). Tweet available [here](https://twitter.com/ONSgeography/status/1593549576023203842).
+
+![Day 18 - Blue]()
+
+_________________
+
+
+## Day 19 | Globe
+
+Data sources: [](),[](), Software used: [](). Tweet available [here]().
+
+![Day 19 - Globe]()
+
+_________________
+
+
+## Day 20 | My Favourite
+
+Data sources: [](),[](), Software used: [](). Tweet available [here]().
+
+![Day 20 - My Favourite]()
+
+_________________
+
+
+## Day 22 | NULL
+
+Data sources: [](),[](), Software used: [](). Tweet available [here]().
+
+![Day 22 - NULL]()
+
+_________________
+
+
+## Day 23 | Movement
+
+Data sources: [](),[](), Software used: [](). Tweet available [here]().
+
+![Day 23 - Movement]()
+
+_________________
+
+
+## Day 24 | Fantasy
+
+Data sources: [](),[](), Software used: [](). Tweet available [here]().
+
+![Day 24 - Fantasy]()
+
+_________________
+
+
+## Day 25 | 2 colours 
+
+Data sources: [](),[](), Software used: [](). Tweet available [here]().
+
+![Day 25 - 2 colours ]()
+
+_________________
+
+
+## Day 26 | Island/s 
+
+Data sources: [](),[](), Software used: [](). Tweet available [here]().
+
+![Day 26 - Island/s ]()
+
+_________________
+
+
+## Day 27 | Music
+
+Data sources: [](),[](), Software used: [](). Tweet available [here]().
+
+![Day 27 - Music]()
+
+_________________
+
+
+## Day 28 | 3D 
+
+Data sources: [](),[](), Software used: [](). Tweet available [here]().
+
+![Day 28 - 3D ]()
+
+_________________
+
+
+## Day 29 | Out of my comfort zone
+
+Data sources: [](),[](), Software used: [](). Tweet available [here]().
+
+![Day 29 - Out of my comfort zone]()
+
+_________________
+
+
+## Day 30 | Remix
+
+Data sources: [](),[](), Software used: [](). Tweet available [here]().
+
+![Day 30 - Remix]()
+
+_________________
+
+
+
+
+
 
 
 
