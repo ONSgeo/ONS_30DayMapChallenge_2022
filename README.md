@@ -126,7 +126,7 @@ _________________
 
 Data sources: [Regions](geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_RGN%2CDEC_2021)). Tweet available [here](https://twitter.com/ONSgeography/status/1593182165423906817).
 
-![Day 17 - map without a computer](), ![Day 17 - map with a computer]()
+![Day 17 - map without a computer](https://github.com/ONSgeo/ONS_30DayMapChallenge_2022/blob/main/maps/day17_tweet1_2.png), ![Day 17 - map with a computer](https://github.com/ONSgeo/ONS_30DayMapChallenge_2022/blob/main/maps/Day17_tweet2_2.png)
 
 _________________
 
