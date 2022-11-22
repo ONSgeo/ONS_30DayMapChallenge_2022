@@ -142,7 +142,7 @@ _________________
 
 ## Day 19 | Globe
 
-Data sources: [](),[](), Software used: [](). Tweet available [here]().
+Data sources: [OAs](https://geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_OA%2CDEC_2021)), [LSOAs](https://geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_LSOA%2CDEC_2021)), [MSOAs](https://geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_MSOA%2CDEC_2021)), Software used: [ArcGIS Online](https://www.arcgis.com/index.html). Tweet available [here](https://twitter.com/ONSgeography/status/1593907107127959553).
 
 ![Day 19 - Globe]()
 
@@ -151,7 +151,7 @@ _________________
 
 ## Day 20 | My Favourite
 
-Data sources: [](),[](), Software used: [](). Tweet available [here]().
+Data sources: [Local Authority Districts](https://geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_LAD%2CDEC_2021)),[Health Index Score](https://t.co/m3sJS7f7jL), [QGIS](https://qgis.org). Tweet available [here](https://twitter.com/ONSgeography/status/1594269320808321024).
 
 ![Day 20 - My Favourite]()
 
@@ -160,7 +160,7 @@ _________________
 
 ## Day 22 | NULL
 
-Data sources: [](),[](), Software used: [](). Tweet available [here]().
+Data sources: [Local Authority Districts](https://geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_LAD)), [Code History Database](https://t.co/fQvCBc9DWU), [QGIS](https://qgis.org). Tweet available [here](https://twitter.com/ONSgeography/status/1595001644600664064).
 
 ![Day 22 - NULL]()
 
