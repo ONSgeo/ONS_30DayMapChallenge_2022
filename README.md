@@ -153,7 +153,7 @@ _________________
 
 Data sources: [Local Authority Districts](https://geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_LAD%2CDEC_2021)),[Health Index Score](https://t.co/m3sJS7f7jL), [QGIS](https://qgis.org). Tweet available [here](https://twitter.com/ONSgeography/status/1594269320808321024).
 
-![Day 20 - My Favourite]()
+![Day 20 - My Favourite](https://github.com/ONSgeo/ONS_30DayMapChallenge_2022/blob/main/maps/Day20_MyFav.png)
 
 _________________
 
@@ -162,7 +162,7 @@ _________________
 
 Data sources: [Local Authority Districts](https://geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_LAD)), [Code History Database](https://t.co/fQvCBc9DWU), [QGIS](https://qgis.org). Tweet available [here](https://twitter.com/ONSgeography/status/1595001644600664064).
 
-![Day 22 - NULL]()
+![Day 22 - NULL](https://github.com/ONSgeo/ONS_30DayMapChallenge_2022/blob/main/maps/Day22_NULL.png)
 
 _________________
 
