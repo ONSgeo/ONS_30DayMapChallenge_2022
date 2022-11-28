@@ -169,7 +169,7 @@ _________________
 
 ## Day 23 | Movement
 
-Data sources: [](),[](), Software used: [](). Tweet available [here]().
+Data sources: [Natural Earth](naturalearthdata.com), [Travel trends estimates](ons.gov.uk/peoplepopulationandcommunity/leisureandtourism/datasets/ukresidentsvisitsabroad), Software used: [ArcMAP](esri.com/en-us/arcgis/products/arcgis-desktop/resources), [Adobe illustrator](adobe.com/uk/). Tweet available [here](twitter.com/ONSgeography/status/1595472072322564103).
 
 ![Day 23 - Movement]()
 
@@ -187,7 +187,7 @@ _________________
 
 ## Day 25 | 2 colours 
 
-Data sources: [](),[](), Software used: [](). Tweet available [here]().
+Data sources: [Local Enterprise Partnerships](geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_LEP%2CMAY_2021)), [Employment and labour market](https://t.co/kbJgChs6AL), Software used: [ArcMAP](esri.com/en-us/arcgis/products/arcgis-desktop/resources), [Adobe illustrator](adobe.com/uk/). Tweet available [here](https://twitter.com/ONSgeography/status/1596082516414406656).
 
 ![Day 25 - 2 colours ]()
 
@@ -196,7 +196,7 @@ _________________
 
 ## Day 26 | Island/s 
 
-Data sources: [](),[](), Software used: [](). Tweet available [here]().
+Data sources: [Regions](geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_RGN%2CDEC_2021)), [Index of place names](https://t.co/rmFdtoMAu3), Software used: [](). Tweet available [here](https://twitter.com/ONSgeography/status/1596443649771855872).
 
 ![Day 26 - Island/s ]()
 
@@ -214,7 +214,7 @@ _________________
 
 ## Day 28 | 3D 
 
-Data sources: [](),[](), Software used: [](). Tweet available [here]().
+Data sources: [Local Authority Districts](geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_LAD%2CDEC_2021)),[Population Estimates](https://t.co/dArkpuJ64c), Software used: [ArcGIS Online](https://www.arcgis.com/home/index.html). Tweet available [here](twitter.com/ONSgeography/status/1597170937794797568).
 
 ![Day 28 - 3D ]()
 
@@ -223,7 +223,7 @@ _________________
 
 ## Day 29 | Out of my comfort zone
 
-Data sources: [](),[](), Software used: [](). Tweet available [here]().
+Data sources: [](), [](), Software used: [](). Tweet available [here]().
 
 ![Day 29 - Out of my comfort zone]()
 
