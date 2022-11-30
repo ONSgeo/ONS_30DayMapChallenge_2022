@@ -207,7 +207,7 @@ _________________
 
 Data sources: [Local Authority Districts](geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_LAD%2CDEC_2021)), [Population and Household estimates](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/populationandhouseholdestimatesenglandandwales/census2021unroundeddata), Software used: [RStudio](https://www.rstudio.com/). Tweet available [here](https://twitter.com/ONSgeography/status/1597530809120051200).
 
-![Day 29 - Out of my comfort zone](https://github.com/ONSgeo/ONS_30DayMapChallenge_2022/blob/main/maps/Day29_OutofMyComfortZone2.png), [Code](https://github.com/ONSgeo/ONS_30DayMapChallenge_2022/blob/main/maps/Day29_OutOfMyComfortZone_carbon.png)
+![Day 29 - Out of my comfort zone](https://github.com/ONSgeo/ONS_30DayMapChallenge_2022/blob/main/maps/Day29_OutofMyComfortZone2.png), ![Code](https://github.com/ONSgeo/ONS_30DayMapChallenge_2022/blob/main/maps/Day29_OutOfMyComfortZone_carbon.png)
 
 _________________
 
