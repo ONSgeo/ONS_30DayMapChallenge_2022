@@ -1,7 +1,7 @@
 # ONS Geography #30DayMapChallenge 2022
 A collection of maps from ONS Geography for the 30DayMapChallenge 2022
 
-![Themes for the maps. See more below.](https://raw.githubusercontent.com/tjukanovt/30DayMapChallenge/main/images/flyers/30dmc-2022.png)
+![Themes for the maps. See more below.](https://github.com/ONSgeo/ONS_30DayMapChallenge_2022/blob/main/maps/30dmc-2022.png)
 
 _________________
 
@@ -135,7 +135,7 @@ _________________
 
 Data sources: [Local Authority Districts](https://geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_LAD%2CDEC_2021)),[Well-being](https://t.co/VWathfoJod), Software used: [ArcGISPro](https://pro.arcgis.com/en/pro-app/latest/get-started/get-started.htm). Tweet available [here](https://twitter.com/ONSgeography/status/1593549576023203842).
 
-![Day 18 - Blue]()
+![Day 18 - Blue](https://github.com/ONSgeo/ONS_30DayMapChallenge_2022/blob/main/maps/Day18_Blue.png)
 
 _________________
 
@@ -180,7 +180,7 @@ _________________
 
 Data sources: [Local Enterprise Partnerships](geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_LEP%2CMAY_2021)), [Employment and labour market](https://t.co/kbJgChs6AL), Software used: [ArcMAP](esri.com/en-us/arcgis/products/arcgis-desktop/resources), [Adobe illustrator](adobe.com/uk/). Tweet available [here](https://twitter.com/ONSgeography/status/1596082516414406656).
 
-![Day 25 - 2 colours ]()
+![Day 25 - 2 colours ](https://github.com/ONSgeo/ONS_30DayMapChallenge_2022/blob/main/maps/Day25_2ColourMap.png)
 
 _________________
 
@@ -189,7 +189,7 @@ _________________
 
 Data sources: [Regions](geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_RGN%2CDEC_2021)), [Index of place names](https://t.co/rmFdtoMAu3), Software used: [](). Tweet available [here](https://twitter.com/ONSgeography/status/1596443649771855872).
 
-![Day 26 - Island/s ]()
+![Day 26 - Island/s ](https://github.com/ONSgeo/ONS_30DayMapChallenge_2022/blob/main/maps/Day26_Islands.png)
 
 _________________
 
@@ -207,7 +207,7 @@ _________________
 
 Data sources: [Local Authority Districts](geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_LAD%2CDEC_2021)), [Population and Household estimates](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/populationandhouseholdestimatesenglandandwales/census2021unroundeddata), Software used: [RStudio](https://www.rstudio.com/). Tweet available [here](https://twitter.com/ONSgeography/status/1597530809120051200).
 
-![Day 29 - Out of my comfort zone]()
+![Day 29 - Out of my comfort zone](https://github.com/ONSgeo/ONS_30DayMapChallenge_2022/blob/main/maps/Day29_OutofMyComfortZone2.png), [Code](https://github.com/ONSgeo/ONS_30DayMapChallenge_2022/blob/main/maps/Day29_OutOfMyComfortZone_carbon.png)
 
 _________________
 
@@ -216,7 +216,7 @@ _________________
 
 Data sources: [Local Authority Districts](geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_LAD%2CDEC_2021)), [Population and Household estimates](), Software used: [ArcGIS Pro](https://pro.arcgis.com/en/pro-app/latest/get-started/get-started.htm). Tweet available [here](twitter.com/ONSgeography/status/1597893208327028738).
 
-![Day 30 - Remix]()
+![Day 30 - Remix](https://github.com/ONSgeo/ONS_30DayMapChallenge_2022/blob/main/maps/Day30_Remix_GoodMap.png)
 
 _________________
 
