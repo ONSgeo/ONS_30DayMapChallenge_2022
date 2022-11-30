@@ -171,7 +171,7 @@ _________________
 
 Data sources: [Natural Earth](naturalearthdata.com), [Travel trends estimates](ons.gov.uk/peoplepopulationandcommunity/leisureandtourism/datasets/ukresidentsvisitsabroad), Software used: [ArcMAP](esri.com/en-us/arcgis/products/arcgis-desktop/resources), [Adobe illustrator](adobe.com/uk/). Tweet available [here](twitter.com/ONSgeography/status/1595472072322564103).
 
-![Day 23 - Movement]()
+![Day 23 - Movement](https://github.com/ONSgeo/ONS_30DayMapChallenge_2022/blob/main/maps/Day23_Movement.png)
 
 _________________
 
