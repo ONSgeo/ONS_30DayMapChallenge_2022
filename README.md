@@ -176,15 +176,6 @@ Data sources: [Natural Earth](naturalearthdata.com), [Travel trends estimates](o
 _________________
 
 
-## Day 24 | Fantasy
-
-Data sources: [](),[](), Software used: [](). Tweet available [here]().
-
-![Day 24 - Fantasy]()
-
-_________________
-
-
 ## Day 25 | 2 colours 
 
 Data sources: [Local Enterprise Partnerships](geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_LEP%2CMAY_2021)), [Employment and labour market](https://t.co/kbJgChs6AL), Software used: [ArcMAP](esri.com/en-us/arcgis/products/arcgis-desktop/resources), [Adobe illustrator](adobe.com/uk/). Tweet available [here](https://twitter.com/ONSgeography/status/1596082516414406656).
@@ -203,15 +194,6 @@ Data sources: [Regions](geoportal.statistics.gov.uk/search?collection=Dataset&so
 _________________
 
 
-## Day 27 | Music
-
-Data sources: [](),[](), Software used: [](). Tweet available [here]().
-
-![Day 27 - Music]()
-
-_________________
-
-
 ## Day 28 | 3D 
 
 Data sources: [Local Authority Districts](geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_LAD%2CDEC_2021)),[Population Estimates](https://t.co/dArkpuJ64c), Software used: [ArcGIS Online](https://www.arcgis.com/home/index.html). Tweet available [here](twitter.com/ONSgeography/status/1597170937794797568).
@@ -223,7 +205,7 @@ _________________
 
 ## Day 29 | Out of my comfort zone
 
-Data sources: [](), [](), Software used: [](). Tweet available [here]().
+Data sources: [Local Authority Districts](geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_LAD%2CDEC_2021)), [Population and Household estimates](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/populationandhouseholdestimatesenglandandwales/census2021unroundeddata), Software used: [RStudio](https://www.rstudio.com/). Tweet available [here](https://twitter.com/ONSgeography/status/1597530809120051200).
 
 ![Day 29 - Out of my comfort zone]()
 
@@ -232,7 +214,7 @@ _________________
 
 ## Day 30 | Remix
 
-Data sources: [](),[](), Software used: [](). Tweet available [here]().
+Data sources: [Local Authority Districts](geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_LAD%2CDEC_2021)), [Population and Household estimates](), Software used: [ArcGIS Pro](https://pro.arcgis.com/en/pro-app/latest/get-started/get-started.htm). Tweet available [here](twitter.com/ONSgeography/status/1597893208327028738).
 
 ![Day 30 - Remix]()
 
