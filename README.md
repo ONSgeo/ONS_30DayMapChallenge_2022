@@ -97,7 +97,7 @@ _________________
 
 ## Day 14 | Hexmap
 
-(Software used: [Python](https://www.python.org/). [Hexmapping GitHub Repository](https://t.co/keyslES8Ti), Tweet available [here](twitter.com/ONSgeography/status/1592094999264391168).
+(Software used: [Python](https://www.python.org/). [Hexmapping GitHub Repository](https://github.com/ONSgeo/HexMapping), Tweet available [here](https://twitter.com/ONSgeography/status/1592094999264391168).
 
 ![Day 14 - Hexmap](https://github.com/ONSgeo/ONS_30DayMapChallenge_2022/blob/main/maps/Day14_Hexagons.png)
 
