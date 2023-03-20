@@ -70,7 +70,7 @@ _________________
 
 ## Day 10 | Bad map
 
-Data sources: [Local Authority Districts](https://geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_LAD%2CDEC_2021)), [Population Estimates](https://t.co/arGpqrpxT7). Software used: [QGIS](https://qgis.org), [Python](https://www.python.org/). Tweet available [here](twitter.com/ONSgeography/status/1590645443989487618).
+Data sources: [Local Authority Districts](https://geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_LAD%2CDEC_2021)), [Population Estimates](https://t.co/arGpqrpxT7). Software used: [QGIS](https://qgis.org), [Python](https://www.python.org/). Tweet available [here](https://twitter.com/ONSgeography/status/1590645443989487618).
 
 ![Day 10 - Bad map](https://github.com/ONSgeo/ONS_30DayMapChallenge_2022/blob/main/maps/Day10_bad_map.png)
 
@@ -79,7 +79,7 @@ _________________
 
 ## Day 11 | Red
 
-Data sources: [Local Authority Districts](https://geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_LAD%2CDEC_2021)),[Personal well-being](https://t.co/YIpi8zVL1J), Software used: [ArcMAP](https://learn.arcgis.com/en/projects/get-started-with-arcmap/). Tweet available [here](twitter.com/ONSgeography/status/1591007839383785472).
+Data sources: [Local Authority Districts](https://geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_LAD%2CDEC_2021)),[Personal well-being](https://t.co/YIpi8zVL1J), Software used: [ArcMAP](https://learn.arcgis.com/en/projects/get-started-with-arcmap/). Tweet available [here](https://twitter.com/ONSgeography/status/1591007839383785472).
 
 ![Day 11 - Red](https://github.com/ONSgeo/ONS_30DayMapChallenge_2022/blob/main/maps/Day11_Red.png)
 
@@ -88,7 +88,7 @@ _________________
 
 ## Day 12 | Scale
 
-Data sources: [Regions](geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_RGN%2CDEC_2021)), [Population Estimates](https://t.co/arGpqrpxT7). Software used: [QGIS](https://qgis.org), [RStudio](https://www.rstudio.com/). Tweet available [here](twitter.com/ONSgeography/status/1591370220039544833).
+Data sources: [Regions](geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_RGN%2CDEC_2021)), [Population Estimates](https://t.co/arGpqrpxT7). Software used: [QGIS](https://qgis.org), [RStudio](https://www.rstudio.com/). Tweet available [here](https://twitter.com/ONSgeography/status/1591370220039544833).
 
 ![Day 12 - Scale](https://github.com/ONSgeo/ONS_30DayMapChallenge_2022/blob/main/maps/Day12_Scale.png)
 
@@ -106,7 +106,7 @@ _________________
 
 ## Day 15 | Food
 
-Data sources: [Regions](geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_RGN%2CDEC_2021)), [Opinion and Lifestyle Survey](https://t.co/Q7qsY2vcaQ),(Software used: [RStudio](https://www.rstudio.com/), Tweet available [here](twitter.com/ONSgeography/status/1592555529074884612).
+Data sources: [Regions](geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_RGN%2CDEC_2021)), [Opinion and Lifestyle Survey](https://t.co/Q7qsY2vcaQ),(Software used: [RStudio](https://www.rstudio.com/), Tweet available [here](https://twitter.com/ONSgeography/status/1592555529074884612).
 
 ![Day 15 - Food](https://github.com/ONSgeo/ONS_30DayMapChallenge_2022/blob/main/maps/Day15_Food.gif)
 
@@ -214,7 +214,7 @@ _________________
 
 ## Day 30 | Remix
 
-Data sources: [Local Authority Districts](geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_LAD%2CDEC_2021)), [Population and Household estimates](), Software used: [ArcGIS Pro](https://pro.arcgis.com/en/pro-app/latest/get-started/get-started.htm). Tweet available [here](twitter.com/ONSgeography/status/1597893208327028738).
+Data sources: [Local Authority Districts](geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_LAD%2CDEC_2021)), [Population and Household estimates](), Software used: [ArcGIS Pro](https://pro.arcgis.com/en/pro-app/latest/get-started/get-started.htm). Tweet available [here](https://twitter.com/ONSgeography/status/1597893208327028738).
 
 ![Day 30 - Remix](https://github.com/ONSgeo/ONS_30DayMapChallenge_2022/blob/main/maps/Day30_Remix_GoodMap.png)
 
